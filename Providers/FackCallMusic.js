@@ -4,7 +4,7 @@ import Sound from 'react-native-sound';
 
 
 let Context = React.createContext();
-let summer = new Sound("dd.mp3", Sound.MAIN_BUNDLE);
+// let summer = new Sound("dd.mp3", Sound.MAIN_BUNDLE);
 
 class FackCallProvider extends React.Component{
 
